@@ -1,8 +1,13 @@
 {
     "word": "Halogen",
     "definitions": [
-        "Any of the elements fluorine, chlorine, bromine, iodine, and astatine, occupying group VIIA (17) of the periodic table. They are reactive non-metallic elements that form strongly acidic compounds with hydrogen from which simple salts can be made.",
-        "Denoting lamps and radiant heat sources using a filament surrounded by the vapour of iodine or another halogen."
+        "Any of the elements fluorine, chlorine, bromine, iodine, and astatine, occupying group VIIA (17) of the periodic table.", 
+        "They are reactive non-metallic elements that form strongly acidic compounds with hydrogen from which simple salts can be made.",
+        "Denoting lamps and radiant heat sources using a filament surrounded by the vapour of iodine or another halogen.",
+        "an electro-negative element or radical, which, by combination with a metal, forms a haloid salt;",
+        "especially, chlorine, bromine, and iodine;", 
+        "sometimes, also, fluorine and cyanogen.",
+        "A substance which by combination with a metal forms a saline compound",
     ],
     "parts-of-speech": "Noun"
 }
